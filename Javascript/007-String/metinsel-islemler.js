@@ -55,3 +55,4 @@ console.log(
   'training.toUpperCase().includes("JAVASCRIPT")',
   training.toUpperCase().includes("JAVASCRIPT")
 )
+
