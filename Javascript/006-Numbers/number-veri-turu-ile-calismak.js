@@ -46,6 +46,8 @@ console.log(
 
 
 // arttirma ve azatlma islemleri
+// yukardan asaga göre islemler tek tek degerlendirilir
+// deger kaldigi yerden devam eder
 let count = 0;
 
 count ++;
